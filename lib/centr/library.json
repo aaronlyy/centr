@@ -1,0 +1,14 @@
+{
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
+  "name": "centr",
+  "version": "0.0.1",
+  "description": "Control multiple ESP32s over REST",
+  "license": "MIT",
+  "homepage": "https://aaronlyy.dev",
+  "repository":{
+    "branch": "main",
+    "type": "git",
+    "url": "https://github.com/aaronlyy/centr"
+  },
+  "keywords": ["esp32", "esp32s", "wifi", "gpio", "async", "webserver", "ap", "rest", "api"]
+}
